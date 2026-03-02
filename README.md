@@ -1,11 +1,88 @@
-# 💫 About Me:
-✨ Experienced Full Stack Developer | Web & Mobile Solutions Architect ✨<br>I'm a results-driven Full Stack Developer with over 3.5+ years of experience building robust, scalable, and user-friendly web and mobile applications. From sleek UI design to powerful backend infrastructure, I specialize in end-to-end development that drives real business results.<br><br>🧰 Tech Stack Highlights:<br><br>Frontend: HTML5, CSS3, JavaScript (ES6+), React, Next.js, Tailwind CSS, Material UI, Ant Design, Bootstrap<br>Backend: Node.js, Express, Python, PHP, REST APIs, MongoDB, SQL<br>Tooling & Workflow: Git, Figma, Postman, CI/CD, Agile & Scrum methodologies<br><br>💡 Why Work With Me?<br>✅ Cross-Platform Expertise — Web & mobile development with performance and UX at the core<br>🌍 Global Collaboration — Flexible across time zones, experienced with international teams<br>🧠 Strategic Partner — Not just code, but insight into architecture, scaling, and UI/UX best practices<br>🎯 Results-Oriented — I focus on clean, maintainable code that translates into fast, reliable applications<br><br>🛠 Core Strengths:<br><br>Frontend Engineering: High-performance UIs using React, Next.js, and modern CSS frameworks<br>Backend Development: Scalable APIs and business logic with Node.js, Express, and Python<br>Design to Deployment: From Figma mockups to responsive frontend execution<br>State Management: React Hooks, Context API, Redux (if needed)<br>Mobile-First & Responsive: Clean, device-agnostic layouts tailored to your brand<br><br>🚀 Let’s Build Something Great<br><br>Whether you're launching a startup MVP, revamping an existing platform, or scaling your current product — I'm here to make the technical side effortless for you. Let’s turn your vision into a world-class digital experience.<br><br>📩 Ready to connect? Drop me a message — I’d love to hear about your project!
+# 👋 Hey, I'm Yash!
+✨ Experienced Full Stack Developer | Web & Mobile Solutions Architect ✨<br>
+
+I'm a results-driven Full Stack Developer with over 4+ years of experience building robust, scalable, and user-friendly web and mobile applications. From sleek UI design to powerful backend infrastructure, I specialize in end-to-end development that drives real business results.
+
+🧰 Tech Stack Highlights:
+- Frontend: HTML5, CSS3, JavaScript (ES6+), React, Next.js, Tailwind CSS, Material UI, Ant Design, Bootstrap<br>
+- Backend: Node.js, Express, Python, PHP, REST APIs, MongoDB, SQL<br>
+- Tooling & Workflow: Git, Figma, Postman, CI/CD, Agile & Scrum methodologies<br>
+
+💡 Why Work With Me?
+
+- ✅ Cross-Platform Expertise — Web & mobile development with performance and UX at the core<br>
+- 🌍 Global Collaboration — Flexible across time zones, experienced with international teams<br>
+- 🧠 Strategic Partner — Not just code, but insight into architecture, scaling, and UI/UX best practices<br>
+- 🎯 Results-Oriented — I focus on clean, maintainable code that translates into fast, reliable applications<br>
+
+🛠 Core Strengths:
+
+- Frontend Engineering: High-performance UIs using React, Next.js, and modern CSS frameworks<br>
+- Backend Development: Scalable APIs and business logic with Node.js, Express, and Python<br>
+- Design to Deployment: From Figma mockups to responsive frontend execution<br>
+- State Management: React Hooks, Context API, Redux (if needed)<br>
+- Mobile-First & Responsive: Clean, device-agnostic layouts tailored to your brand<br><br>
+
+🚀 Let’s Build Something Great<br><br>Whether you're launching a startup MVP, revamping an existing platform, or scaling your current product — I'm here to make the technical side effortless for you. Let’s turn your vision into a world-class digital experience.<br><br>
+📩 Ready to connect? Drop me a message — I’d love to hear about your project!
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash.innovate@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white)  ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+
+🚀 Languages
+<p> <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp" /> </p>
+
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind,bootstrap,materialui,threejs,html,css,jquery" /> </p>
+
+🧩 Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,graphql,apollo" /> </p>
+
+🗄 Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,dynamodb" /> </p>
+
+☁ Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,netlify,heroku" /> </p>
+
+🛠 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,postman,figma,notion" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
+
+💳 Payment Gateway Integrations
+- I build secure and scalable payment systems using Stripe, PayPal, and Razorpay. My experience includes subscription billing, one-time payments, webhook handling, payment verification, refund workflows, and multi-currency international payment support — all implemented with secure server-side validation.
+<p align="left"> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" /> </p>
+
+
+🔌 Third-Party Service Integrations
+📧 Email Marketing & CRM
+- I integrate advanced email marketing and CRM platforms including Mailchimp, Klaviyo, Brevo (Sendinblue), and HubSpot. This includes audience synchronization, marketing automation workflows, transactional email APIs, lead capture systems, and CRM contact management.
+<p align="left"> <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" /> <img src="https://img.shields.io/badge/Klaviyo-000000?style=for-the-badge&logo=klaviyo&logoColor=white" /> <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white" /> <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" /> </p>
+
+🛒 E-commerce & Platform Integrations
+- I work extensively with Shopify for store setup, theme customization, API integrations, webhook automation, custom checkout flows, and syncing product, order, and customer data with external systems and CRMs.
+<p align="left"> <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" /> </p>
+
+
+📊 Analytics & Conversion Tracking
+- I implement Google Analytics (GA4) and Facebook Pixel for advanced event tracking, funnel analysis, e-commerce tracking, and performance optimization. This includes custom event setup, conversion tracking, and marketing attribution alignment.
+<p align="left"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/Facebook%20Pixel-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </p>
+
+
+⚙ Automation & Workflow
+- I design automation systems using Zapier, Slack webhooks, and Google Sheets APIs to streamline workflows, automate internal processes, sync data across platforms, and improve operational efficiency.
+<p align="left"> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" /> </p>
+
+
+🔐 Security & Verification
+- I implement Google reCAPTCHA (v2 & v3) to enhance security, prevent spam, protect forms, and reduce malicious bot traffic while maintaining smooth user experience.
+<p align="left"> <img src="https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" /> </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YashDevganiya&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
